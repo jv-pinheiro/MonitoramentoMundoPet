@@ -1,0 +1,62 @@
+[
+  {
+    "key" : "A",
+    "name" : "Aldeota",
+    "latitude" : -3.7384,
+    "longitude" : -38.4939
+  },
+  {
+    "key" : "WS",
+    "name" : "Washington Soares",
+    "latitude" : -3.7777,
+    "longitude" : -38.4818
+  },
+  {
+    "key" : "LF",
+    "name" : "Lauro de Freitas",
+    "latitude" : -12.8833,
+    "longitude" : -38.3156
+  },
+  {
+    "key" : "BV",
+    "name" : "Boa Viagem",
+    "latitude" : -8.0932,
+    "longitude" : -34.8857
+  },
+  {
+    "key" : "CF",
+    "name" : "Casa Forte",
+    "latitude" : -8.0377,
+    "longitude" : -34.9114
+  },
+  {
+    "key" : "RV",
+    "name" : "Rio Vermelho",
+    "latitude" : -13.0056,
+    "longitude" : -38.4843
+  },
+  {
+    "key" : "MS",
+    "name" : "Manaira Shopping",
+    "latitude" : -7.0981,
+    "longitude" : -34.8449
+  },
+  {
+    "key" : "P",
+    "name" : "Pituba",
+    "latitude" : -12.9875,
+    "longitude" : -38.4571
+  },
+  {
+    "key" : "G",
+    "name" : "Graça",
+    "latitude" : -12.9980,
+    "longitude" : -38.5204
+  },
+  {
+    "key" : "SS",
+    "name" : "Salvador Shopping",
+    "latitude" : -12.9762,
+    "longitude" : -38.4577
+  }
+]
